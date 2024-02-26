@@ -16,7 +16,7 @@ body{
 
 .container{
     margin: 20px;
-    display: flex;
+    
 }
 
 .bookContainer{
@@ -26,6 +26,8 @@ body{
     color: white;
     width: 25%;
     border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .bookContainer h2{
